@@ -1,0 +1,28 @@
+name: UXB Club
+favicon: null
+layout_spectrum: 0.6907154722139239
+typography_spectrum: 0.3516360246576369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.40945404185913503
+  lightness: 0.7784776058979332
+  saturation: 0.14946072059683502
+  rhythmicContrast: 0.2966984389349818
+purpose: []
